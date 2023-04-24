@@ -1,15 +1,6 @@
 # Model-based Decision Making with Imagination for Autonomous Parking
 
 
-This paper has been accepted by [IEEE Symposium on Intelligent Vehicle (IV) 2018](https://ieeexplore.ieee.org/xpl/conhome/8472796/proceeding).
-
-By [Ziyue Feng](https://ziyue.cool), Shitao Chen, Yu Chen, Nanning Zheng.
-
-IEEE Xplore: [Link](https://ieeexplore.ieee.org/document/8500700)
-
-Arxiv: [Link](https://arxiv.org/abs/2108.11420)
-
-
 ![image](https://user-images.githubusercontent.com/21237230/131201981-f348f3a2-b04e-4907-b1a4-8449a95c15d3.png)
 
 ### Abstract
@@ -53,9 +44,3 @@ RRT and performs better in terms of efficiency and quality.
   pages={2216-2223},
   doi={10.1109/IVS.2018.8500700}}
 ```
-
-### Reference
-This project is developed from [Nonholonomic Mobile Robot Motion Planning](http://msl.cs.uiuc.edu/~lavalle/cs576_1999/projects/junqu/)
-
-### Contact
-If you have any question or concerns about this paper or repository, please feel free to contact Ziyue Feng (zfeng@clemson.edu).
